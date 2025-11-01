@@ -1,7 +1,7 @@
 <H3>NAME : P KEERTHANA</H3>
-<H3>REGISTER NO. : 212223240069</H3>
+<H3>REGISTER NO : 212223240069 </H3>
 <H3>EX. NO.6</H3>
-<H3>DATE: 01-11-2025 </H3>
+<H3>DATE: 01-11-25 </H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
@@ -16,9 +16,9 @@ Step 8:Make predictions on the testing set using mlp.predict(X_test).<BR>
 Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) with the actual labels (y_test) using accuracy_score().<BR>
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
-
 <H3>Program: </H3>
-```
+
+```python
 import numpy as np
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
@@ -62,7 +62,7 @@ print(classification_rep)
 
 <H3>Output:</H3>
 
-![Uploading image.png…]()
+<img width="891" height="753" alt="image" src="https://github.com/user-attachments/assets/0cf5e961-6d22-47b3-83ca-67b132027215" />
 
 
 <H3>Results:</H3>
